@@ -1,7 +1,9 @@
 add and remove users
 change the roles
-manage the database
-closing the connection
 
+<<<<<<< HEAD
 change 1
 change 2 in my database.
+=======
+change 2 
+>>>>>>> feature3
